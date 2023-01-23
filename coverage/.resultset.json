@@ -1,22 +1,15 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/wesleymiranda/stock_api/spec/service/stock_search_spec.rb": {
+      "/Users/wesleymiranda/stock_api/spec/facades/stock_search_spec.rb": {
         "lines": [
           1,
           null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
           null,
-          1,
-          1,
-          1,
-          null,
-          null,
+          0,
           null,
           null,
           null
@@ -28,38 +21,36 @@
           1,
           null,
           null,
-          1
+          0
         ]
       },
       "/Users/wesleymiranda/stock_api/config/application.rb": {
         "lines": [
           1,
           null,
-          1,
+          0,
           null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
+          0,
           null,
           null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
           null,
           null,
           null,
@@ -67,7 +58,9 @@
           null,
           null,
           null,
-          1,
+          null,
+          null,
+          0,
           null,
           null
         ]
@@ -77,231 +70,10 @@
           1,
           null,
           1,
-          1
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/environments/test.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/application_controller_renderer.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/backtrace_silencers.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/cors.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/filter_parameter_logging.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          1
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/inflections.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/mime_types.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/initializers/wrap_parameters.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/config/routes.rb": {
-        "lines": [
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/app/services/stock_search_service.rb": {
-        "lines": [
-          1,
-          1,
-          2,
-          2,
-          2,
-          null,
-          2,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          1,
-          null,
-          1,
-          3,
-          3,
-          null,
-          null,
-          null,
-          1,
-          3,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/app/facade/stock_search_facade.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/wesleymiranda/stock_api/app/poro/stock_search.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null
+          0
         ]
       }
     },
-    "timestamp": 1664520700
+    "timestamp": 1674281187
   }
 }
